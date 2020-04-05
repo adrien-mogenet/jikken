@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: "Jikken Records"
 description: "Shape the future of sound"
 logo: "https://raw.githubusercontent.com/adrien-mogenet/jikken/gh-pages/logo.jpg"
+google_analytics: "UA-162787589-1"
