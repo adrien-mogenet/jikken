@@ -1,8 +1,8 @@
 ## Links
 
 * [Our releases on Bandcamp](https://jikken-records.bandcamp.com)
-* [Our articles on Medium](https://medium.com/jikken)
 * [Our newsletter](http://eepurl.com/gYPTpL)
+* [Our articles on Medium](https://medium.com/jikken) (coming soon)
 * Email: contact [at] jikken-records [dot] com
 
 ## The Label
