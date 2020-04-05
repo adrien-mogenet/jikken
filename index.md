@@ -7,24 +7,22 @@ We’re interested in tracks and artists that can be hardly defined with the cur
 
 ## Our guidelines
 
-We strive to provide a solid guidance to our artists, help them define their projects and make intentionnal decisions when releasing their projects.
-
-We want to break the rules.
-
-There is no rule to break the rules.
-
-Encouraging experimentations does not mean we’re only accepting experimental projects.
-
+  * We strive to provide a solid guidance to our artists, help them define their projects and make intentionnal decisions when releasing their projects.
+  * We want to break the rules.
+  * There is _no_ rule to break the rules.
+  * Encouraging experimentations does not mean we’re only accepting experimental projects.
+  
+If you can deal with that, please consider sending your demos!
 
 ## Demos
 
-Send your demos to [this-demo-will-surprise-you@jikken-records.com]. We review all the demos.
-*Accepted formats*: any format that enables us to accurately appreciate your project.  If you have no idea, Flac is a great lossless opensource format, but links to a platform work too.
+You can send your demos to this-demo-will-surprise-you [at] jikken-records [dot] com. We review _all_ the demos.
+*Accepted formats*: any format that enables us to accurately appreciate your project.  If you have no idea, [Flac](https://xiph.org/flac/) is a great lossless opensource format, but a link to your favorite platform work too.
 
 
 ## Contracts
 
-Renewing the industry also means cutting-edge label-artist relationships.  We want to offer a great experience to all our artists and we want to provide the best and fairest contracts.  No clause such as “50% royalties after the first $100”, we think that sucks.
+Renewing the industry also means cutting-edge label-artist relationships.  We want to offer a great experience to all our artists and we want to provide the best and fairest contracts.  No clause such as _“50% royalties after the first $100”_, we think that sucks.
 
 
 ## About us
