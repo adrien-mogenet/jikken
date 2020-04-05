@@ -1,3 +1,9 @@
+* [Our releases on Bandcamp](https://jikken-records.bandcamp.com)
+* Our articles (coming soon)
+* Our newsletter (coming soon)
+* Email: contact[at]jikken-records[dot]com
+
+
 ## The Label
 
 Jikken – Japanese word for “Experiment” – is a label that strives to defining styles that don’t really exist yet.
