@@ -2,10 +2,8 @@
 
 * [Our releases on Bandcamp](https://jikken-records.bandcamp.com)
 * Our articles (coming soon)
-* Our newsletter (coming soon)
-* Email: contact[at]jikken-records[dot]com
-
-##
+* [Our newsletter](http://eepurl.com/gYPTpL)
+* Email: contact [at] jikken-records [dot] com
 
 ## The Label
 
