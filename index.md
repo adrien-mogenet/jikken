@@ -1,7 +1,7 @@
 ## Links
 
 * [Our releases on Bandcamp](https://jikken-records.bandcamp.com)
-* Our articles (coming soon)
+* [Our articles on Medium](https://medium.com/jikken)
 * [Our newsletter](http://eepurl.com/gYPTpL)
 * Email: contact [at] jikken-records [dot] com
 
