@@ -1,4 +1,4 @@
-## Links
+## Define The Future Shape of Sounds
 
 * [Our releases on Bandcamp](https://jikken-records.bandcamp.com)
 * [Our newsletter](http://eepurl.com/gYPTpL)
