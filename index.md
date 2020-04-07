@@ -17,7 +17,7 @@ We’re interested in tracks and artists that can be hardly defined with the cur
 
 ## Our guidelines
 
-  * We strive to provide a solid guidance to our artists, help them define their projects and make intentionnal decisions when releasing their projects.
+  * We strive to provide a solid guidance to our artists, help them define their projects and make intentional decisions when releasing their projects.
   * We want to break the rules.
   * There is _no_ rule to break the rules.
   * Encouraging experimentations does not mean we’re only accepting experimental projects.
@@ -38,4 +38,4 @@ Renewing the industry also means cutting-edge label/artist relationships.  We wa
 
 ## About us
 
-Jikken has been founded in Tokyo in April 2020, incidentally amid worlwide Covid-19 outbreak.
+Jikken has been founded in Tokyo in April 2020, incidentally amid wordlwide Covid-19 outbreak.
