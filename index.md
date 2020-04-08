@@ -1,6 +1,6 @@
 # JIKKEN RECORDS
 
-## Define The Future Shape of Sounds
+## Define The Future Shape of Sound
 
 * [Our releases on Bandcamp](https://releases.jikken-records.com)
 * [Our newsletter](http://eepurl.com/gYPTpL)
