@@ -2,7 +2,7 @@
 
 ## Define The Future Shape of Sounds
 
-* [Our releases on Bandcamp](https://jikken-records.bandcamp.com)
+* [Our releases on Bandcamp](https://releases.jikken-records.com)
 * [Our newsletter](http://eepurl.com/gYPTpL)
 * [Our articles on Medium](https://medium.com/jikken)
 * Email: contact [at] jikken-records [dot] com
