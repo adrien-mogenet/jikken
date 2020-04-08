@@ -10,7 +10,7 @@
 
 ## The Label
 
-Jikken – Japanese word for “Experiment” – is a label that strives to define electronic styles that don’t really exist yet.
+_Jikken_ – Japanese word for “Experiment” – is a label that strives to define electronic styles that don’t really exist yet.
 
 We’re interested in tracks and artists that can be hardly defined with the current paradigm.  We appreciate there’s already a large palette of existing genres, but we believe nothing is static, everything is ephemeral, and we want to shape the new rhythms, synths, waveforms, arpeggios and other sonic content that will define tomorrow.  We believe there are many great tracks classified as "techno, synthwave, IDM, industrial, etc." that are already pushing the boundaries of their genres, and it's precisely what we want to develop at Jikken Records.
 
@@ -28,7 +28,7 @@ If you can deal with that, please consider sending your demos!
 ## Demos
 
 You can send your demos to this-demo-will-surprise-you [at] jikken-records [dot] com. There is **only one rule**, and it's to answer that question in your email: _What makes your project so special?_ We'll review _all_ the demos which follow that rule.
-*Accepted formats*: any format that enables us to accurately appreciate your project.  If you have no idea, [Flac](https://xiph.org/flac/) is a great lossless opensource format, but a link to your favorite platform work too.
+*Accepted formats*: any format that enables us to accurately appreciate your project.  If you have no idea, [Flac](https://xiph.org/flac/) is a great lossless opensource format, but a link to your favorite platform works too.
 
 
 ## Label/Artist relationships
@@ -38,4 +38,4 @@ Renewing the industry also means cutting-edge label/artist relationships.  We wa
 
 ## About us
 
-Jikken has been founded in Tokyo in April 2020, incidentally amid worldwide COVID-19 outbreak. And if you're a social network person, you can find us on [Instagram](https://instagram.com/jikkenrecords), [Facebook](https://facebook.com/jikken-records), [Soundcloud](https://soundcloud.com/jikken-records) and [Medium](https://medium.com/jikken).
+_Jikken_ has been founded in Tokyo in April 2020, incidentally amid worldwide COVID-19 outbreak. And if you're a social network person, you can find us on [Instagram](https://instagram.com/jikkenrecords), [Facebook](https://facebook.com/jikken-records), [Soundcloud](https://soundcloud.com/jikken-records) and [Medium](https://medium.com/jikken).
