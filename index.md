@@ -38,4 +38,4 @@ Renewing the industry also means cutting-edge label/artist relationships.  We wa
 
 ## About us
 
-_Jikken_ has been founded in Tokyo in April 2020, incidentally amid worldwide COVID-19 outbreak. If you're a social network person, you can find us on [Instagram](https://instagram.com/jikkenrecords), [Facebook](https://facebook.com/jikken-records), [Soundcloud](https://soundcloud.com/jikken-records) and [Medium](https://medium.com/jikken).
+_Jikken_ has been founded in Tokyo in April 2020, incidentally amid worldwide COVID-19 outbreak. If you're a social network person, you can find us on [Instagram](https://instagram.com/jikkenrecords), [Facebook](https://facebook.com/jikkenrecords), [Soundcloud](https://soundcloud.com/jikkenrecords) and [Medium](https://medium.com/jikken).
