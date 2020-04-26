@@ -27,7 +27,7 @@ If you can deal with that, please consider sending your demos!
 
 ## Demos
 
-You can send your demos to this-demo-will-surprise-you [at] jikken-records [dot] com. There is **only one rule**, and it's to answer that question in your email: _What makes your project so special?_ We'll review _all_ the demos which follow that rule.
+You can send your demos to demos [at] jikken-records [dot] com. There is **only one rule**, and it's to answer that question in your email: _What makes your project so special?_ We'll review _all_ the demos which follow that rule.
 *Accepted formats*: any format that enables us to accurately appreciate your project.  If you have no idea, [Flac](https://xiph.org/flac/) is a great lossless opensource format, but a link to your favorite platform works too.
 
 
